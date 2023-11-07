@@ -10,36 +10,19 @@ p {color: white; font-family: calibro; padding-left: 80px; padding-right: 65px;}
 
 <style>
     body {
-    background: url(wall2.png);
-    background-image: url("wall2.png") ;
-    background-position: center;
-    background-size: cover;
-    background-color: #cccccc;
-    background-size: 1920px 1080px;
-        }
-
-        header {
-            background-color: #226abd;
-            color: white;
-            text-align: center;
-            padding: 2px;
+ background: url(wall2.png);background-image: url("wall2.png") ;background-position: center;
+    background-size: cover;background-color: #cccccc;background-size: 1920px 1080px;
+        }header {
+            background-color: #226abd;color: white;text-align: center;padding: 2px;
         }
         h1 {
-            font-size: 40px;
-            font-style: italic;
+            font-size: 40px;font-style: italic;
         
         }
         .container {
-            max-width:none;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: white;
-
-            background-size: cover;
-            background-position: center;
+            max-width:none; margin: 0 auto; padding: 20px; background-color: white; background-size: cover;background-position: center;
             background-position-x: center;
         }
-        p {
-            font-size: 18px;
+        p { font-size: 18px;
         }
     </style>
